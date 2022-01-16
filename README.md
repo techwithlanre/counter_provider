@@ -1,6 +1,6 @@
 # counter
 
-A new Flutter project.
+flutter counter app with provider state management.
 
 ## Getting Started
 
